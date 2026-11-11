@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 #  Predicción de Accidentes en Federados de Montaña de Madrid
 #  Accident Prediction for Madrid Mountain Federation Members
 =======
 # 🏔️ Mountain Insurance Accident Prediction
 
 An end-to-end Machine Learning pipeline predicting seasonal accident risk for the **Madrid Mountain Federation** (121k+ records). Built as a final capstone project, optimized for leak-free cross-validation and risk factor interpretability.
->>>>>>> 4f0e53735a5d1c1ee5f05bb0e7c3f8504f00b05c
-
 ---
 
 ## 🎯 Business Problem & Key Challenges
