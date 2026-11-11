@@ -1,7 +1,3 @@
-# Project-Break-II-ML
- Proyecto de Machine Learning para el entrenamiento de un modelo en base a un Dataset
-## Equipo compuesto por Danilo Castillo, Ricardo Díaz Coca y Arrate Alducin  
-
 #  Predicción de Accidentes en Federados de Montaña de Madrid
 #  Accident Prediction for Madrid Mountain Federation Members
 
